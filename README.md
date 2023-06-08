@@ -1,6 +1,6 @@
-<h1>Desafio de Projeto da Digital Innovation One</h1>
+<h1>Jogo Resgate</h1>
 
-<p>Desenvolvi esse projeto conforme as orientações do instrutor Denilson Bonatti. Fiz somente algumas mudanças em relação ao modelo original.</p>
+<p>Desafio de projeto da <strong>Digital Innovation One</strong> que desenvolvi conforme as orientações do instrutor Denilson Bonatti. Fiz somente algumas mudanças em relação ao modelo original.</p>
 
 <p>CSS:</p>
 <ol>
