@@ -377,4 +377,3 @@ function start() { // Inicio da função start()
     $("#fim").remove();
     start();
   } // Fim da função reiniciaJogo
-
