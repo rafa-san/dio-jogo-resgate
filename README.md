@@ -17,7 +17,7 @@ No jogo, o(a) jogador(a) controla um helicóptero que deve destruir inimigos enq
 - Implementação da lógica do jogo e eventos com JavaScript.
 - Publicação para acesso via navegador.
 
-### Principais Modificações
+## 3️⃣ Principais Modificações
 Realizei apenas algumas melhorias durante o desenvolvimento:
 
 **CSS**
@@ -34,7 +34,7 @@ Realizei apenas algumas melhorias durante o desenvolvimento:
 **JavaScript**
 - Alterei a tecla de disparo de **D** para **ENTER** para maior conveniência.
 
-## 3️⃣ Tecnologias Utilizadas
+## 4️⃣ Tecnologias Utilizadas
 
 ### Linguagens
 <div style="display:flex;">
@@ -46,11 +46,11 @@ Realizei apenas algumas melhorias durante o desenvolvimento:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/GitHub-404040?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-## 4️⃣ Créditos
+## 5️⃣ Créditos
 Agradeço ao didático instrutor Denilson Bonatti e à equipe da DIO por disponibilizarem este conteúdo maravilhoso!
 - <a href="https://www.dio.me/" target="_blank">Digital Innovation One | DIO 🔗</a>
 
-## 5️⃣ Licença
+## 6️⃣ Licença
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
