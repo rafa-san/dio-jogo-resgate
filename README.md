@@ -2,15 +2,17 @@
 
 # Construindo o seu Primeiro Jogo de Naves (Jogo Resgate)
 
-## 1️⃣ Apresentação
+## 1️⃣ Objetivo
+Desenvolver um jogo utilizando HTML5, CSS3 e JavaScript.
+
+## 2️⃣ Descrição
 Este projeto prático foi realizado como parte do **Bootcamp HTML Web Developer**, oferecido pela **Digital Innovation One (DIO)**. 
 
 A atividade foi conduzida pelo instrutor **Denilson Bonatti**.
 
-## 2️⃣ Objetivo
-Criar um jogo básico utilizando HTML5, CSS3 e JavaScript.
+Neste divertido joguinho, o(a) jogador(a) controla um helicóptero que deve destruir inimigos enquanto resgata um soldado antes que ele seja atropelado por um caminhão. 
 
-No jogo, o(a) jogador(a) controla um helicóptero que deve destruir inimigos enquanto resgata um soldado antes que ele seja atropelado por um caminhão. O projeto segue uma abordagem passo a passo, cobrindo:
+O projeto segue uma abordagem passo a passo, cobrindo:
 
 - Criação da estrutura básica em HTML.
 - Estilização com CSS3.
@@ -18,10 +20,10 @@ No jogo, o(a) jogador(a) controla um helicóptero que deve destruir inimigos enq
 - Publicação para acesso via navegador.
 
 ## 3️⃣ Principais Modificações
-Realizei apenas algumas melhorias durante o desenvolvimento:
+Realizei apenas algumas melhorias durante o desenvolvimento da minha versão:
 
 **CSS**
-<ol>
+<ul>
 <li>Adicionei <code>cursor: pointer</code> nos seletores <code>#inicio</code> e <code>#fim</code>;</li>
   <li>Simplifiquei declarações, como:</li>
   <ul>
@@ -29,7 +31,7 @@ Realizei apenas algumas melhorias durante o desenvolvimento:
     <li><code>border-style: solid</code> e <code>border-color: #fff</code> por <code>border: 2px solid #fff</code>.</li>
   </ul>
   <li>Incluí <code>background-size: cover</code> no seletor <code>body</code> para ajustar a imagem de fundo de maneira uniforme.</li>
-</ol>
+</ul>
 
 **JavaScript**
 - Alterei a tecla de disparo de **D** para **ENTER** para maior conveniência.
